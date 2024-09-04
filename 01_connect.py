@@ -25,3 +25,6 @@ finally:
         conn.close()
 
 # comment lien1
+
+# 두번째 brahcn test02에서 다시 라인을 추가함.  am 11:49
+#   
