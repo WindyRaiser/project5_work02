@@ -11,6 +11,9 @@
   git config --global user.name "Your Name"         // github user 이름으로  WindyRaiser
   git config --global user.email "you@example.com"  // kant2000@naver.com 으로 메일 등록
 
+  git config user.name WindyRaiser 
+  git config user.email kant2000@naver.com
+  
   git config list                   //config 상태 확인
   git config --list --show-origin   //설정이 저장된 파일의 경로를 통해 Global, Local 설정인지 구분
 
