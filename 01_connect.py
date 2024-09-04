@@ -25,10 +25,6 @@ finally:
         conn.close()
 
 # comment lien1
-<<<<<<< HEAD
-# comment line 11:42  line add
-=======
 
 # 두번째 brahcn test02에서 다시 라인을 추가함.  am 11:49
 #   
->>>>>>> test02
