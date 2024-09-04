@@ -1,4 +1,4 @@
-1. git으로 관리핟 경로까지 이동
+1. git으로 관리할 경로까지 이동
 
 1.1  브랜치 기본이름 변경하기(master 일때)
     git config --global init.defaultBranch main
@@ -137,7 +137,6 @@ rm -rf .git
     - 한단위의 작업이 완료되면 main에 merge한다. 
     - 모든 작업이 완료되면 github에도 올린다. 
      
-
 
 12. 로그 확인하기
     git log
